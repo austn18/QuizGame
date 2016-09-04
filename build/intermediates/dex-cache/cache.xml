@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hyunsulim/AndroidStudioProjects/QuizGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/hyunsulim/AndroidStudioProjects/QuizGame/app/build/intermediates/pre-dexed/debug/classes-bfc5b34786000d3a4a33b8b6d71110c4bf53783e.jar" />
+    </item>
+    <item
+        jar="/Users/hyunsulim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/hyunsulim/AndroidStudioProjects/QuizGame/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-385f8fd26d001032a55f15578aee966b5fd5a6b7.jar" />
+    </item>
+    <item
+        jar="/Users/hyunsulim/AndroidStudioProjects/QuizGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/hyunsulim/AndroidStudioProjects/QuizGame/app/build/intermediates/pre-dexed/debug/classes-2bcf14ed250fca9865d59f73de697b2abbc9b83b.jar" />
+    </item>
+    <item
+        jar="/Users/hyunsulim/AndroidStudioProjects/QuizGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/hyunsulim/AndroidStudioProjects/QuizGame/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-dbd4cb50b52b8291bdf2d5b6a56820855fb64a37.jar" />
+    </item>
+
+</items>
